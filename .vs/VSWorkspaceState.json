@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\libraries",
+    "\\libraries\\GLFW",
+    "\\libraries\\GLFW\\glad",
+    "\\libraries\\GLFW\\KHR",
+    "\\obj"
+  ],
+  "SelectedNode": "\\main.cpp",
+  "PreviewInSolutionExplorer": false
+}
